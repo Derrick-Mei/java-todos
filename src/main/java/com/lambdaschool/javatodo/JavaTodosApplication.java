@@ -4,12 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaTodoApplication
+public class JavaTodosApplication
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(JavaTodoApplication.class, args);
+        SpringApplication.run(JavaTodosApplication.class, args);
     }
 
 }
