@@ -1,4 +1,4 @@
-package com.lambdaschool.javatodo;
+package com.lambdaschool.javatodos;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

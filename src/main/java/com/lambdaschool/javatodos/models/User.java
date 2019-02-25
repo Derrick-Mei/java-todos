@@ -1,4 +1,4 @@
-package com.lambdaschool.javatodo.models;
+package com.lambdaschool.javatodos.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
